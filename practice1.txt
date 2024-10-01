@@ -1,3 +1,7 @@
 chnage on i file on Nov 17
 
 another change
+
+i =  10
+j =11
+k=     12
